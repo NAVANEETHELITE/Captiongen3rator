@@ -23,7 +23,8 @@ from keras.layers.merge import add
 
 model = load_model("model_weights/model_9.h5")
 model.load_weights(model)
-model._make_predict_function()
+model.predict()
+        
 
 # In[6]:
 
@@ -36,7 +37,8 @@ model_temp = ResNet50(weights="imagenet", input_shape=(224,224,3))
 
 # Create a new model, by removing the last layer (output layer of 1000 classes) from the resnet50
 model_resnet = Model(model_temp.input, model_temp.layers[-2].output)
-model_resnet._make_predict_function()
+model_resnet.predict()
+
 
 # In[8]:
 
