@@ -1,7 +1,7 @@
 ## Image Caption Generator
 
 - This image captioning model generates the captions for the image using CNN and RNN.
-- This model is trained over the Flicker8K dataset.
+- This model is trained on the Flicker8K dataset.
 - <strong>Flickr8k Dataset:</strong> <a href="https://forms.illinois.edu/sec/1713398">Dataset Request Form</a>
 
 <strong>UPDATE (April/2021):</strong> The official site seems to have been taken down (although the form still works). Here are some <b> direct download links</b>:
