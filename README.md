@@ -12,7 +12,7 @@
 	Download Link Credits:<a href="https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/"> Jason Brownlee</a>
 </ul>
 
-
+The high level architecture of this model is shown below
 <p align="center">
   <strong>HIGH LEVEL ARCHITECTURE</strong>
 </p>
