@@ -22,7 +22,7 @@
 </p>
 
 - The sample outputs of the model are given below :
-<p align="center>
+<p align="center">
   <img width="50%" src="https://github.com/NAVANEETHELITE/Captiongen3rator/blob/main/examples/img1.png">
   <img width="50%" src="https://github.com/NAVANEETHELITE/Captiongen3rator/blob/main/examples/img2.png">
 </p>
