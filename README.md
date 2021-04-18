@@ -15,7 +15,6 @@
 
 The high level architecture of this model is shown below :
 
-<p align="center">
   <img src="<p align="center">
   <img src="https://miro.medium.com/max/1250/1*rfYN2EELhLvp2Van3Jo-Yw.jpeg" width="85%" title="HIGH LEVEL ARCHITECTURE">
 </p>
