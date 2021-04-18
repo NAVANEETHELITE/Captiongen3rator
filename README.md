@@ -20,3 +20,10 @@ The high level architecture of this model is shown below
 <p align="center">
   <img src="https://miro.medium.com/max/1250/1*rfYN2EELhLvp2Van3Jo-Yw.jpeg" width="85%" title="ARCHUTECTURE">
 </p>
+
+The sample outputs of the model are given below :
+<p align="center">
+ <img width="50%" src="https://github.com/NAVANEETHELITE/Captiongen3rator/blob/main/examples/img1.png">
+ <img width="50%" src="https://github.com/NAVANEETHELITE/Captiongen3rator/blob/main/examples/img2.png">
+</p>
+      
