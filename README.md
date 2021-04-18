@@ -17,5 +17,5 @@ The high level architecture of this model is shown below :
 
 <p align="center">
   <img src="<p align="center">
-  <img src="https://cdn-images-1.medium.com/max/1600/1*6BFOIdSHlk24Z3DFEakvnQ.png" width="85%" title="HIGH LEVEL ARCHITECTURE" alt="High level architecture">
+  <img src="https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8" width="85%" title="HIGH LEVEL ARCHITECTURE" alt="High level architecture">
 </p>
