@@ -4,7 +4,7 @@
 - This model is trained on the Flicker8K dataset.
 - <strong>Flickr8k Dataset:</strong> <a href="https://forms.illinois.edu/sec/1713398">Dataset Request Form</a>
 
-<strong>UPDATE (April/2021):</strong> The official site seems to have been taken down (although the form still works). Here are some <b> direct download links</b>:
+<strong>UPDATE (April/2021):</strong> The official site have been taken down it seems(although the form still works). Here are some <b> direct download links</b>:
 
 <ul type="square">
 	<li><a href="https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip">Flickr8k_Dataset</a></li>
